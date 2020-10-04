@@ -4,7 +4,6 @@ A few scripts I use on [Wolf.Bet](https://wolf.bet?c=jagbot "Wolf.Bet") and [Win
 
 Tested only using ETH. Minimum bankroll 0.15, Recommended 1.0
 Play once every 24 hours.
-I've only made up to 20 ETH before busting or withdrawing.
 
 If you win, consider tipping. 
 
