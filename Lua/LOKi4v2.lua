@@ -1,5 +1,5 @@
 --[[
-	LOKi4v2 
+	LOKi4v2 (OP04, Optimal Profit)
 	by: JagBot
 ]]--
 
